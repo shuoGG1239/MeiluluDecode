@@ -6,7 +6,7 @@
 # 资源提取
 * .pkg解包后在/PS3_GAME/USRDIR/Event/event路径下的子文件夹中有很多.ebm文件,那些基本就是剧情文本了;
 * .ebm的封包格式:
-<br><img src="https://github.com/shuoGG1239/MeiluluDecode/blob/master/readme_img/raw1.jpg" alt="example"><br>
+<br><img src="https://raw.githubusercontent.com/shuoGG1239/MeiluluDecode/master/readme_img/raw1.jpg" alt="example"><br>
 * 提取后的agemo格式文本:
-<br><img src="https://github.com/shuoGG1239/MeiluluDecode/blob/master/readme_img/agemo.jpg" alt="example"><br>
+<br><img src="https://raw.githubusercontent.com/shuoGG1239/MeiluluDecode/master/readme_img/agemo.jpg" alt="example"><br>
 
